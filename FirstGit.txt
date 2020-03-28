@@ -5,3 +5,4 @@ second word
 .git commit
 
 git rm
+git status
