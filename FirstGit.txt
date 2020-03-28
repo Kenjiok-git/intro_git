@@ -3,3 +3,5 @@ TryGit
 second word
 .git add 
 .git commit
+
+git rm
